@@ -1,0 +1,43 @@
+
+.nav-link {
+    color: #224F34 !important;}
+
+    header{
+        background-color: #C2EFD4 !important;
+        color: #224F34 !important;
+    }
+    .btn-dark{
+        border: 1px solid #224F34 !important;
+        background-color: #224F34 !important;
+    } 
+    .image-container{background-color: #6bc785 !important;
+    border-radius: 150px 40px;}
+    .container-fluid{
+        color:#224F34;
+    }
+
+    .text-green{
+        color: #224F34;
+    }
+    .bg-green{
+        background-color: #93b9a2;
+    }
+    .bg-sky{
+        background-color: #cadcd0;
+    }
+        .link-underline-success{
+            color: #224F34 !important;
+        }
+    
+        .img-prodect{
+            height: 100%;
+            width: auto;
+            object-fit: cover;
+            
+        }
+        .time-box{
+            background-color: white;
+            height: 90px;
+            width:  90px;
+            line-height: 1;
+        }
